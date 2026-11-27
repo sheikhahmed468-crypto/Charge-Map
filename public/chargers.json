@@ -1,0 +1,2300 @@
+{
+  "chargers": [
+    {
+      "id": 1,
+      "name": "Balakot EV Hub",
+      "address": "Near Shell Pump",
+      "city": "Balakot",
+      "lat": 34.544618,
+      "lng": 73.348936,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 120,
+      "connectors": [
+        "Type 2",
+        "Socket"
+      ],
+      "operator": "Solar Powered",
+      "phone": "0347-5685685",
+      "rating": 4.5,
+      "reviews": 0,
+      "amenities": [
+        "Solar Powered",
+        "6 AM–6 PM"
+      ],
+      "photo": null
+    },
+    {
+      "id": 2,
+      "name": "Hotel Elites NathiaGali",
+      "address": "Nathia Gali Rd, adjacent MCB Bank",
+      "city": "NathiaGali",
+      "lat": 34.0709681,
+      "lng": 73.3834952,
+      "type": "DC",
+      "powerKW": 20,
+      "price": 130,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Hotel Elites",
+      "phone": "0992-355045",
+      "rating": 4.2,
+      "reviews": 4862,
+      "amenities": [
+        "Hotel Access",
+        "Parking",
+        "Restaurant"
+      ],
+      "photo": null
+    },
+    {
+      "id": 3,
+      "name": "Pine View Hotel & Restaurant",
+      "address": "Tarrana, Balakot",
+      "city": "Balakot",
+      "lat": 34.5000644,
+      "lng": 73.3523633,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 120,
+      "connectors": [
+        "Type 2",
+        "Socket"
+      ],
+      "operator": "Pine View Hotel",
+      "phone": null,
+      "rating": 4,
+      "reviews": 1469,
+      "amenities": [
+        "Hotel Access",
+        "Restaurant",
+        "Socket Available",
+        "WAPDA Power"
+      ],
+      "photo": null
+    },
+    {
+      "id": 4,
+      "name": "Cedarwood Hotel and Resort Shogran",
+      "address": "Shogran",
+      "city": "Shogran",
+      "lat": 34.6399245,
+      "lng": 73.4598781,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 150,
+      "connectors": [
+        "Type 2",
+        "Socket"
+      ],
+      "operator": "Cedarwood Hotel",
+      "phone": null,
+      "rating": 4.2,
+      "reviews": 942,
+      "amenities": [
+        "Hotel Access",
+        "24/7 Backup",
+        "Socket Available",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 5,
+      "name": "Alpine Hotel & Resort",
+      "address": "Nathiagali",
+      "city": "Nathiagali",
+      "lat": 34.0744782,
+      "lng": 73.3832511,
+      "type": "DC",
+      "powerKW": 30,
+      "price": 150,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Alpine Hotel",
+      "phone": null,
+      "rating": 4.3,
+      "reviews": 4828,
+      "amenities": [
+        "Hotel Access",
+        "Resort",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 6,
+      "name": "Pearl-Continental Hotel Bhurban",
+      "address": "Bhurban",
+      "city": "Murree",
+      "lat": 33.9569942,
+      "lng": 73.4591416,
+      "type": "AC",
+      "powerKW": 3,
+      "price": 300,
+      "connectors": [
+        "Socket"
+      ],
+      "operator": "PC Hotel",
+      "phone": null,
+      "rating": 4.8,
+      "reviews": 0,
+      "amenities": [
+        "Hotel Guests Only",
+        "Level 1 Charging",
+        "Luxury Hotel"
+      ],
+      "photo": null
+    },
+    {
+      "id": 7,
+      "name": "Murree EV Charger",
+      "address": "Musiari Link Road",
+      "city": "Murree",
+      "lat": 33.8919247,
+      "lng": 73.4033,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 150,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private Operator",
+      "phone": "03175198462",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 8,
+      "name": "PSO Gas Centre 2 EV Charge Hub",
+      "address": "Peshawar Ring Road",
+      "city": "Peshawar",
+      "lat": 34.0287292,
+      "lng": 71.6155896,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 130,
+      "connectors": [
+        "CCS2",
+        "CHAdeMO"
+      ],
+      "operator": "PSO",
+      "phone": null,
+      "rating": 5,
+      "reviews": 1,
+      "amenities": [
+        "Petrol Station",
+        "24/7"
+      ],
+      "photo": null
+    },
+    {
+      "id": 9,
+      "name": "Attock Fuel Station – Hakla (M-1)",
+      "address": "JRGX+858, Islamabad-Peshawar Motorway",
+      "city": "Hakla",
+      "lat": 33.62573,
+      "lng": 72.8478283,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 130,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Attock Petroleum",
+      "phone": null,
+      "rating": 4.1,
+      "reviews": 1356,
+      "amenities": [
+        "Petrol Station",
+        "24/7",
+        "Restrooms",
+        "M-1 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 10,
+      "name": "Harro Rest Area – North Bound",
+      "address": "M-1 Motorway, Harro Rest Area",
+      "city": "Harro",
+      "lat": 33.8345926,
+      "lng": 72.624802,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "NHA EV Network",
+      "phone": "03490999162",
+      "rating": 4.1,
+      "reviews": 35,
+      "amenities": [
+        "24/7",
+        "Restrooms",
+        "Cafe",
+        "M-1 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 11,
+      "name": "Harro Rest Area – South Bound",
+      "address": "M-1 Motorway, Harro Rest Area",
+      "city": "Harro",
+      "lat": 33.8347883,
+      "lng": 72.6262509,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "NHA EV Network",
+      "phone": "03490999162",
+      "rating": 4.2,
+      "reviews": 430,
+      "amenities": [
+        "24/7",
+        "Restrooms",
+        "Cafe",
+        "M-1 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 12,
+      "name": "CNG Station Chakri – North Bound (M-2)",
+      "address": "M-2 Motorway, Chakri Service Area",
+      "city": "Chakri",
+      "lat": 33.3217129,
+      "lng": 72.7832701,
+      "type": "DC",
+      "powerKW": 240,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private Operator",
+      "phone": "03234677602",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "24/7",
+        "M-2 Motorway",
+        "Service Area"
+      ],
+      "photo": null
+    },
+    {
+      "id": 13,
+      "name": "Kallar Kahar Service Area – South Bound",
+      "address": "M-2 Motorway, Kallar Kahar",
+      "city": "Kallar Kahar",
+      "lat": 32.7807895,
+      "lng": 72.7167389,
+      "type": "DC",
+      "powerKW": 360,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "NHA EV Network",
+      "phone": "03195419043",
+      "rating": 4.3,
+      "reviews": 0,
+      "amenities": [
+        "24/7",
+        "Restrooms",
+        "M-2 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 14,
+      "name": "Sial Service Area – North Bound (M-2)",
+      "address": "M-2 Motorway, Sial Service Area",
+      "city": "Sial",
+      "lat": 31.96847,
+      "lng": 73.1115449,
+      "type": "DC",
+      "powerKW": 360,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "NHA EV Network",
+      "phone": "03260819861",
+      "rating": 4.2,
+      "reviews": 0,
+      "amenities": [
+        "24/7",
+        "Restrooms",
+        "M-2 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 15,
+      "name": "Bhera Service Area (M-2)",
+      "address": "M-2 Motorway, Bhera",
+      "city": "Bhera",
+      "lat": 32.454522,
+      "lng": 72.8881295,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private Operator",
+      "phone": "03008325438",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "24/7",
+        "M-2 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 16,
+      "name": "Malik Petroleum – Balkasar (M-2)",
+      "address": "11 km from Balkasar Interchange, M-2",
+      "city": "Balkasar",
+      "lat": 32.9438377,
+      "lng": 72.5665684,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 0,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "Malik Petroleum",
+      "phone": null,
+      "rating": 3.8,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "M-2 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 17,
+      "name": "Elite Charging Station (G-6/4 Aramco)",
+      "address": "G-6/4, Aramco",
+      "city": "Islamabad",
+      "lat": 33.7148761,
+      "lng": 73.0971117,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 125,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Elite Charging",
+      "phone": null,
+      "rating": 4.5,
+      "reviews": 0,
+      "amenities": [
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 18,
+      "name": "EV Charging Station – I-10/3 Tesla Industries",
+      "address": "I-10/3, Tesla Industries",
+      "city": "Islamabad",
+      "lat": 33.654373,
+      "lng": 73.036221,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 125,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Tesla Industries",
+      "phone": null,
+      "rating": 4.2,
+      "reviews": 0,
+      "amenities": [
+        "Industrial Area",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 19,
+      "name": "EV Charging Station – Blue Area",
+      "address": "Jin, Islamabad, Attock Petroleum, Jinnah Avenue",
+      "city": "Islamabad",
+      "lat": 33.7167266,
+      "lng": 73.0678213,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private Operator",
+      "phone": null,
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Blue Area",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 20,
+      "name": "EV Charging Station – Centaurus Mall",
+      "address": "Centaurus Mall, Basement Parking",
+      "city": "Islamabad",
+      "lat": 33.7081082,
+      "lng": 73.0501711,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 115,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private Operator",
+      "phone": "03149106531",
+      "rating": 4.5,
+      "reviews": 0,
+      "amenities": [
+        "Mall Access",
+        "Basement Parking",
+        "Food Court"
+      ],
+      "photo": null
+    },
+    {
+      "id": 21,
+      "name": "Islamabad Club EV Station",
+      "address": "Islamabad Club, Murree Road",
+      "city": "Islamabad",
+      "lat": 33.7061609,
+      "lng": 73.1056983,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Islamabad Club",
+      "phone": "03115559830",
+      "rating": 3,
+      "reviews": 2,
+      "amenities": [
+        "Members Only",
+        "Club Access",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 22,
+      "name": "PSO Marwat Filling Station – I-8 Markaz",
+      "address": "I-8 Markaz",
+      "city": "Islamabad",
+      "lat": 33.6680767,
+      "lng": 73.0771666,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO",
+      "phone": null,
+      "rating": 4.2,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "24/7"
+      ],
+      "photo": null
+    },
+    {
+      "id": 23,
+      "name": "Giga Mall EV Station",
+      "address": "Giga Mall, DHA Phase 2 (DHA Entrance Side)",
+      "city": "Rawalpindi",
+      "lat": 33.5211113,
+      "lng": 73.1585192,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Giga Mall",
+      "phone": "03114339489",
+      "rating": 4.5,
+      "reviews": 50156,
+      "amenities": [
+        "Mall Access",
+        "Food Court",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 24,
+      "name": "ZETA 1 Mall",
+      "address": "Opposite Giga Mall, GT Road",
+      "city": "Rawalpindi",
+      "lat": 33.5197484,
+      "lng": 73.1584398,
+      "type": "DC",
+      "powerKW": 30,
+      "price": 130,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "ZETA 1 Mall",
+      "phone": "03119258272",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Mall Access",
+        "Basement Parking",
+        "Mon–Thu 11am–11pm",
+        "Weekend 11am–12am"
+      ],
+      "photo": null
+    },
+    {
+      "id": 25,
+      "name": "Attock Fuel Pump – Old Airport Road",
+      "address": "Old Airport Road",
+      "city": "Rawalpindi",
+      "lat": 33.5882823,
+      "lng": 73.0748766,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Attock Petroleum",
+      "phone": null,
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 26,
+      "name": "Shell Recharge – Lahore",
+      "address": "Shell Station, Lahore Cantt",
+      "city": "Lahore",
+      "lat": 31.521259,
+      "lng": 74.36825,
+      "type": "DC",
+      "powerKW": 180,
+      "price": 89,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Shell Pakistan",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Bay 1 + Bay 2",
+        "2x 180 kW DC",
+        "2x CCS2",
+        "Shell Select Store"
+      ],
+      "photo": null
+    },
+    {
+      "id": 27,
+      "name": "EURO Express 18",
+      "address": "Euro Pump, Bedian Road (near Askari 11 Gate)",
+      "city": "Lahore",
+      "lat": 31.4618634,
+      "lng": 74.4366368,
+      "type": "DC",
+      "powerKW": 180,
+      "price": 100,
+      "connectors": [
+        "CCS2",
+        "CHadeMo",
+        "CCS1"
+      ],
+      "operator": "EURO Express",
+      "phone": "03074152996",
+      "rating": 4.9,
+      "reviews": 10,
+      "amenities": [
+        "2x 180 kW Chargers",
+        "4x CCS2 Guns",
+        "Petrol Station"
+      ],
+      "photo": null
+    },
+    {
+      "id": 28,
+      "name": "Go Green Charging – Packages Mall",
+      "address": "Packages Mall, Walton Road",
+      "city": "Lahore",
+      "lat": 31.4717376,
+      "lng": 74.3560398,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 120,
+      "connectors": [
+        "Type 2",
+        "CCS2"
+      ],
+      "operator": "Go Green Avenue",
+      "phone": "03314483699",
+      "rating": 4.4,
+      "reviews": 0,
+      "amenities": [
+        "Mall Access",
+        "AC 22kW + DC 120kW",
+        "Food Court",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 29,
+      "name": "Dongfeng × Chawla Green Motors",
+      "address": "Main Boulevard Gulberg",
+      "city": "Lahore",
+      "lat": 31.513157,
+      "lng": 74.3416654,
+      "type": "DC",
+      "powerKW": 30,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Chawla Green Motors",
+      "phone": null,
+      "rating": 4.2,
+      "reviews": 0,
+      "amenities": [
+        "Showroom",
+        "10 AM–10 PM",
+        "Gulberg"
+      ],
+      "photo": null
+    },
+    {
+      "id": 30,
+      "name": "Go Green Charging – Main Boulevard Gulberg",
+      "address": "Main Boulevard Gulberg",
+      "city": "Lahore",
+      "lat": 31.5144751,
+      "lng": 74.3425052,
+      "type": "AC",
+      "powerKW": 22,
+      "price": 0,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "Go Green Avenue",
+      "phone": null,
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Gulberg",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 31,
+      "name": "EV Charging Station – Metro Thokar",
+      "address": "Metro Thokar",
+      "city": "Lahore",
+      "lat": 31.4671779,
+      "lng": 74.2353592,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private Operator",
+      "phone": "03229648689",
+      "rating": 3.8,
+      "reviews": 0,
+      "amenities": [
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 32,
+      "name": "PSO – Bahria Filling Station",
+      "address": "Bahria Town, Sector B, Canal Bank Road",
+      "city": "Lahore",
+      "lat": 31.3847868,
+      "lng": 74.1688703,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO",
+      "phone": null,
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Bahria Town"
+      ],
+      "photo": null
+    },
+    {
+      "id": 33,
+      "name": "EV Charging Station – PSO Girja Chowk",
+      "address": "Girja Chowk, PSO",
+      "city": "Lahore",
+      "lat": 31.5222391,
+      "lng": 74.3797271,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO",
+      "phone": null,
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 34,
+      "name": "Jasmine Service Station – Total PARCO",
+      "address": "MM Alam Road",
+      "city": "Lahore",
+      "lat": 31.505681,
+      "lng": 74.3491164,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Total PARCO",
+      "phone": "03066800191",
+      "rating": 3.9,
+      "reviews": 0,
+      "amenities": [
+        "Filling Station",
+        "MM Alam Road"
+      ],
+      "photo": null
+    },
+    {
+      "id": 35,
+      "name": "Shell – Lyallpur Galleria, Faisalabad",
+      "address": "Near Lyallpur Galleria Mall",
+      "city": "Faisalabad",
+      "lat": 31.4398733,
+      "lng": 73.1344048,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 105,
+      "connectors": [
+        "CCS2",
+        "CHAdeMO"
+      ],
+      "operator": "Shell Pakistan",
+      "phone": "03226001118",
+      "rating": 4.1,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Mall Nearby",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 36,
+      "name": "Hyundai Gujrat",
+      "address": "Gujrat Bypass, opposite Murarian Shareef",
+      "city": "Gujrat",
+      "lat": 32.5740719,
+      "lng": 74.0425464,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Hyundai",
+      "phone": "0321 1119756",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Washroom",
+        "Tea & Coffee",
+        "A/C Lounge",
+        "Generator Backup",
+        "9 AM–6 PM (Sun off)"
+      ],
+      "photo": "https://jbirfludrdesgxjtyltl.supabase.co/storage/v1/object/public/review-photos/charger-hyundai-gujrat-1782902224.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Attock Petrol – Sialkot Bypass",
+      "address": "Attock Pump, Jinnah Road, Sialkot Bypass",
+      "city": "Gujranwala",
+      "lat": 32.1799543,
+      "lng": 74.2261105,
+      "type": "DC",
+      "powerKW": 80,
+      "price": 110,
+      "connectors": [
+        "CCS2",
+        "GB/T"
+      ],
+      "operator": "Attock Petroleum",
+      "phone": "03086462190",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station"
+      ],
+      "photo": "https://jbirfludrdesgxjtyltl.supabase.co/storage/v1/object/public/review-photos/charger-attock-1782903543.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Petropak CNG – Kharian (GT Road)",
+      "address": "Next to Mall of Kharian, GT Road",
+      "city": "Kharian",
+      "lat": 32.8123362,
+      "lng": 73.8624636,
+      "type": "DC",
+      "powerKW": 160,
+      "price": 0,
+      "connectors": [
+        "Type 2",
+        "CCS2"
+      ],
+      "operator": "Petropak",
+      "phone": "03215437810",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "AC 11kW + DC 160kW",
+        "CNG Station",
+        "GT Road"
+      ],
+      "photo": null
+    },
+    {
+      "id": 39,
+      "name": "EV Charging Station – Pindi Bhattian",
+      "address": "Pindi Bhattian",
+      "city": "Pindi Bhattian",
+      "lat": 31.9342364,
+      "lng": 73.287455,
+      "type": "DC",
+      "powerKW": 150,
+      "price": 120,
+      "connectors": [
+        "CCS2",
+        "CHAdeMO"
+      ],
+      "operator": "Private Operator",
+      "phone": "03237706746",
+      "rating": 3.8,
+      "reviews": 0,
+      "amenities": [
+        "Parking",
+        "60kW also available"
+      ],
+      "photo": null
+    },
+    {
+      "id": 40,
+      "name": "Centre Point Hotel – M-4 Gojra",
+      "address": "M-4 Motorway, outside Gojra Toll Plaza",
+      "city": "Gojra",
+      "lat": 31.1627036,
+      "lng": 72.6429717,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 0,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "Centre Point Hotel",
+      "phone": null,
+      "rating": 3.9,
+      "reviews": 0,
+      "amenities": [
+        "Hotel Access",
+        "M-4 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 41,
+      "name": "PSO Magic River – M-2 Near Lahore",
+      "address": "M-2 Motorway, PSO Magic River, near Lahore",
+      "city": "Lahore",
+      "lat": 31.5457428,
+      "lng": 74.2552068,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO",
+      "phone": "03189009649",
+      "rating": 4.1,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "M-2 Motorway",
+        "24/7"
+      ],
+      "photo": null
+    },
+    {
+      "id": 42,
+      "name": "Pakistan State Oil (PSO) – Multan",
+      "address": "Multan",
+      "city": "Multan",
+      "lat": 30.1788998,
+      "lng": 71.4460235,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 130,
+      "connectors": [
+        "CCS2",
+        "CHAdeMO"
+      ],
+      "operator": "PSO",
+      "phone": null,
+      "rating": 4.3,
+      "reviews": 92,
+      "amenities": [
+        "Petrol Station",
+        "24/7"
+      ],
+      "photo": null
+    },
+    {
+      "id": 43,
+      "name": "9 Star Arcade",
+      "address": "Bosan Road, opposite DHA Gate",
+      "city": "Multan",
+      "lat": 30.2938593,
+      "lng": 71.5023821,
+      "type": "DC",
+      "powerKW": 30,
+      "price": 90,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private",
+      "phone": "+92 311 6220781",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Parking",
+        "Sitting Area",
+        "24/7"
+      ],
+      "photo": null
+    },
+    {
+      "id": 44,
+      "name": "Abdul Hakeem – M3 Toll Plaza",
+      "address": "M3 Motorway Toll Plaza, Abdul Hakeem",
+      "city": "Abdul Hakeem",
+      "lat": 30.5615632,
+      "lng": 72.0808187,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 200,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private",
+      "phone": "03006170021",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "M3 Motorway",
+        "Toll Plaza"
+      ],
+      "photo": "https://jbirfludrdesgxjtyltl.supabase.co/storage/v1/object/public/review-photos/charger-abdulhakeem-1782903545.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Thal Rice Mill – Chowk Azam",
+      "address": "Chowk Azam, Layyah District",
+      "city": "Chowk Azam",
+      "lat": 30.988339,
+      "lng": 71.2165,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 70,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private Operator",
+      "phone": "03039267822",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Industrial Area",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 46,
+      "name": "ZahirPir Filling Station – South Bound (M-5)",
+      "address": "M-5 Motorway",
+      "city": "ZahirPir",
+      "lat": 28.9200858,
+      "lng": 70.623851,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "ZahirPir Filling Station",
+      "phone": "03077490307",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "M-5 Motorway",
+        "24/7",
+        "Petrol Station"
+      ],
+      "photo": null
+    },
+    {
+      "id": 47,
+      "name": "ZahirPir Filling Station – North Bound (M-5)",
+      "address": "M-5 Motorway",
+      "city": "ZahirPir",
+      "lat": 28.9222979,
+      "lng": 70.6230836,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "ZahirPir Filling Station",
+      "phone": "03077490307",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "M-5 Motorway",
+        "24/7",
+        "Petrol Station"
+      ],
+      "photo": null
+    },
+    {
+      "id": 48,
+      "name": "PSO Gora Qabristan",
+      "address": "Opposite Gora Qabristan",
+      "city": "Karachi",
+      "lat": 24.8529938,
+      "lng": 67.0527259,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO / Hubco",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "PSO Store",
+        "Car Wash",
+        "Tyre Shop",
+        "24/7"
+      ],
+      "photo": "https://jbirfludrdesgxjtyltl.supabase.co/storage/v1/object/public/review-photos/charger-pso-gora-1782903547.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Inverex Showroom",
+      "address": "Main Shahrah-e-Faisal, near EOBI House",
+      "city": "Karachi",
+      "lat": 24.8678908,
+      "lng": 67.0852735,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 115,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Inverex",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "9 AM–5 PM"
+      ],
+      "photo": null
+    },
+    {
+      "id": 50,
+      "name": "Hascol Pump (BMW Destination)",
+      "address": "Shahrah-e-Faisal",
+      "city": "Karachi",
+      "lat": 24.882788,
+      "lng": 67.1140678,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 150,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "BMW Destination",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Hascol Shop",
+        "Car Wash",
+        "Sitting Area",
+        "Washroom",
+        "Tyre Repair"
+      ],
+      "photo": null
+    },
+    {
+      "id": 51,
+      "name": "ABB Charging Station – M-9 Motorway",
+      "address": "Shell Station, near Karachi Toll Plaza, M-9",
+      "city": "Karachi",
+      "lat": 24.9855311,
+      "lng": 67.2156456,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 105,
+      "connectors": [
+        "CCS2",
+        "CHAdeMO"
+      ],
+      "operator": "ABB / Shell",
+      "phone": null,
+      "rating": 4.7,
+      "reviews": 32,
+      "amenities": [
+        "Petrol Station",
+        "24/7",
+        "M-9 Motorway"
+      ],
+      "photo": null
+    },
+    {
+      "id": 52,
+      "name": "Shell Recharge – DHA Phase 5",
+      "address": "DHA Phase 5",
+      "city": "Karachi",
+      "lat": 24.8177895,
+      "lng": 67.0655642,
+      "type": "DC",
+      "powerKW": 180,
+      "price": 105,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Shell Pakistan",
+      "phone": null,
+      "rating": 4.5,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "DHA Phase 5",
+        "1x DC 180kW",
+        "2x CCS2"
+      ],
+      "photo": null
+    },
+    {
+      "id": 53,
+      "name": "Shell EV Station – Creek Vista DHA Phase 8",
+      "address": "Shell Creek Vista, DHA Phase 8",
+      "city": "Karachi",
+      "lat": 24.778379,
+      "lng": 67.087767,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 105,
+      "connectors": [
+        "CCS2",
+        "CHAdeMO"
+      ],
+      "operator": "Shell Pakistan",
+      "phone": null,
+      "rating": 4.2,
+      "reviews": 617,
+      "amenities": [
+        "Petrol Station",
+        "DHA Phase 8",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 54,
+      "name": "The Ocean Mall",
+      "address": "Ocean Mall, Basement Parking",
+      "city": "Karachi",
+      "lat": 24.8238,
+      "lng": 67.0355235,
+      "type": "DC",
+      "powerKW": 30,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Ocean Mall",
+      "phone": null,
+      "rating": 4.1,
+      "reviews": 0,
+      "amenities": [
+        "Mall Access",
+        "Basement Parking",
+        "Food Court"
+      ],
+      "photo": null
+    },
+    {
+      "id": 55,
+      "name": "Dolmen Mall – Clifton",
+      "address": "Dolmen Mall, Clifton",
+      "city": "Karachi",
+      "lat": 24.8021323,
+      "lng": 67.0300195,
+      "type": "AC",
+      "powerKW": 22,
+      "price": 0,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "Dolmen Mall",
+      "phone": null,
+      "rating": 4.3,
+      "reviews": 0,
+      "amenities": [
+        "Mall Access",
+        "Parking Arena",
+        "Clifton"
+      ],
+      "photo": null
+    },
+    {
+      "id": 56,
+      "name": "GO Petroleum – Libra Autos",
+      "address": "Civil Lines",
+      "city": "Karachi",
+      "lat": 24.8538784,
+      "lng": 67.0268285,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "GO Petroleum",
+      "phone": null,
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Civil Lines"
+      ],
+      "photo": null
+    },
+    {
+      "id": 57,
+      "name": "EV Charging Station – Gulistan-e-Johar",
+      "address": "Gulistan-e-Johar, Rashid Minhas Rd, next to McDonalds",
+      "city": "Karachi",
+      "lat": 24.9003889,
+      "lng": 67.1168106,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Private Operator",
+      "phone": null,
+      "rating": 3.9,
+      "reviews": 0,
+      "amenities": [
+        "McDonalds Nearby",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 58,
+      "name": "Al-Madina CNG Station – M-9 Nooriabad",
+      "address": "M-9 Motorway, Nooriabad",
+      "city": "Nooriabad",
+      "lat": 25.1785094,
+      "lng": 67.8073493,
+      "type": "DC",
+      "powerKW": 50,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Al-Madina CNG",
+      "phone": "03082996962",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "CNG Station",
+        "M-9 Motorway",
+        "24/7"
+      ],
+      "photo": null
+    },
+    {
+      "id": 59,
+      "name": "PSO Fuel Station – Hyderabad Bypass",
+      "address": "Hyderabad Bypass Road",
+      "city": "Hyderabad",
+      "lat": 25.4162123,
+      "lng": 68.3389413,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO / Al-Falah Petroleum",
+      "phone": "03012528839",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Bypass Road"
+      ],
+      "photo": null
+    },
+    {
+      "id": 60,
+      "name": "NEW ALI TRUCKING STATION PSO – Moro",
+      "address": "Moro, N5 Highway",
+      "city": "Moro",
+      "lat": 26.6904749,
+      "lng": 68.0258417,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 150,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO / New Ali Trucking",
+      "phone": "03002478828",
+      "rating": 4.1,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "N5 Highway",
+        "Trucking Station"
+      ],
+      "photo": null
+    },
+    {
+      "id": 61,
+      "name": "PSO Bedal Petroleum Services – Sukkur",
+      "address": "N5 Highway",
+      "city": "Sukkur",
+      "lat": 27.6684745,
+      "lng": 68.9295554,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO / Bedal Petroleum",
+      "phone": "03337144333",
+      "rating": 4,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "N5 Highway",
+        "10 AM–9 PM"
+      ],
+      "photo": null
+    },
+    {
+      "id": 62,
+      "name": "Shangrila hotel & resort",
+      "address": "Lawrence College Road, Adjacent to Punjab House، Murree Bypass, Murree, 47150, Pakistan",
+      "city": "Murree",
+      "lat": 33.8984091,
+      "lng": 73.3788668,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": "03450019095",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 63,
+      "name": "Canal view 7KWH AC",
+      "address": "Sector 2",
+      "city": "Gujranwala",
+      "lat": 32.0833977300784,
+      "lng": 74.1880191308976,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 60,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 64,
+      "name": "Dewan A-Charge",
+      "address": "",
+      "city": "Bhera North",
+      "lat": 32.4535809780695,
+      "lng": 72.8858634876223,
+      "type": "DC",
+      "powerKW": 0,
+      "price": 150,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": "03008325438",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 65,
+      "name": "Attock Fuel Station – Hakla North (M-1)",
+      "address": "M-1 Hakla service area, North bound",
+      "city": "Hakla",
+      "lat": 33.6319725,
+      "lng": 72.8418347,
+      "type": "DC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Attock Petroleum",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 66,
+      "name": "Go Green Avenue i-9/3",
+      "address": "I-9/3, Islamabad",
+      "city": "Islamabad",
+      "lat": 33.6630357,
+      "lng": 73.0571414,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Go Green Avenue",
+      "phone": "03208555015",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 67,
+      "name": "Premier Inn Grand Gulberg",
+      "address": "33/A Block G, Gulberg III",
+      "city": "Lahore",
+      "lat": 31.5018451,
+      "lng": 74.3450805,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 115,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "Premier Inn",
+      "phone": "03001000847",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Hotel Access",
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 68,
+      "name": "Go Green Avenue – Centaurus Mall B2",
+      "address": "Centaurus Mall, basement parking B2",
+      "city": "Islamabad",
+      "lat": 33.7075784,
+      "lng": 73.0493537,
+      "type": "DC",
+      "powerKW": 0,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Go Green Avenue",
+      "phone": "03275395080",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Parking"
+      ],
+      "photo": null
+    },
+    {
+      "id": 69,
+      "name": "Multan Petroleum Services PSO",
+      "address": "M-5 Multan Service Area, South bound",
+      "city": "Multan",
+      "lat": 29.9947113,
+      "lng": 71.3878823,
+      "type": "DC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 70,
+      "name": "Shershah Petroleum Service PSO",
+      "address": "M-5 Multan Service Area, North bound",
+      "city": "Multan",
+      "lat": 29.9967508,
+      "lng": 71.3862235,
+      "type": "DC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 71,
+      "name": "Attock Petrol Pump – F-11",
+      "address": "Hilal Rd, F-11 Markaz",
+      "city": "Islamabad",
+      "lat": 33.6852943,
+      "lng": 72.9856938,
+      "type": "DC",
+      "powerKW": 60,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Attock Petroleum",
+      "phone": "0512103678",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 72,
+      "name": "Vital-Canal Filling Station",
+      "address": "Mohlanwal Rd, near Doctors Society",
+      "city": "Lahore",
+      "lat": 31.4614363,
+      "lng": 74.2308917,
+      "type": "DC",
+      "powerKW": 40,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Vital",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 73,
+      "name": "Contra Coffee Canal Bank Road",
+      "address": "Vital Petrol Pump, Mohlanwal Rd",
+      "city": "Lahore",
+      "lat": 31.4613088,
+      "lng": 74.2310142,
+      "type": "DC",
+      "powerKW": 40,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Cafe"
+      ],
+      "photo": null
+    },
+    {
+      "id": 74,
+      "name": "EV Charging – Peshawar Cantt",
+      "address": "AH1, Defence Colony",
+      "city": "Peshawar",
+      "lat": 34.0100206,
+      "lng": 71.5392008,
+      "type": "DC",
+      "powerKW": 0,
+      "price": 140,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": "03449060052",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Backup Generator",
+        "12 PM–9 PM"
+      ],
+      "photo": null
+    },
+    {
+      "id": 75,
+      "name": "OKLA West EVs",
+      "address": "404-E PIA Main Boulevard, PIA Housing Scheme",
+      "city": "Lahore",
+      "lat": 31.4468023,
+      "lng": 74.2807236,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 100,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "OKLA",
+      "phone": "03054088459",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 76,
+      "name": "EV Station – North Nazimabad (KDA)",
+      "address": "Block A, KDA Apartment, St-08",
+      "city": "Karachi",
+      "lat": 24.931919,
+      "lng": 67.036146,
+      "type": "DC",
+      "powerKW": 120,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": "03126067480",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 77,
+      "name": "EV Station – North Karachi Industrial 12-D",
+      "address": "Sector 12-D, North Karachi Industrial Area",
+      "city": "Karachi",
+      "lat": 24.969865,
+      "lng": 67.0885867,
+      "type": "DC",
+      "powerKW": 240,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": "03126067480",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 78,
+      "name": "Ali Baba CNG Filling Station",
+      "address": "Karachi-Hyderabad Motorway, Nooriabad",
+      "city": "Nooriabad",
+      "lat": 25.1787561,
+      "lng": 67.801254,
+      "type": "DC",
+      "powerKW": 80,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": "03035249996",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 79,
+      "name": "Rashakai Service Area South (M-1)",
+      "address": "M-1 motorway, Rashakai service area",
+      "city": "Rashakai",
+      "lat": 34.09222,
+      "lng": 72.069382,
+      "type": "DC",
+      "powerKW": 70,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": "03232995170",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 80,
+      "name": "Mall of Lahore",
+      "address": "172 Tufail Rd, Cantt",
+      "city": "Lahore",
+      "lat": 31.5292971,
+      "lng": 74.3787239,
+      "type": "DC",
+      "powerKW": 180,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Go Green Avenue",
+      "phone": "03208555015",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Parking",
+        "Mall"
+      ],
+      "photo": null
+    },
+    {
+      "id": 81,
+      "name": "Basilico by Sara – Lake City",
+      "address": "Downtown, Block M2A Lake City",
+      "city": "Lahore",
+      "lat": 31.3694875,
+      "lng": 74.2511882,
+      "type": "AC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Restaurant"
+      ],
+      "photo": null
+    },
+    {
+      "id": 82,
+      "name": "PSO Petrol Pump – Damthal",
+      "address": "Zafarwal Road, Damthal",
+      "city": "Narowal",
+      "lat": 32.2641111,
+      "lng": 74.8911667,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 130,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "PSO",
+      "phone": "03039540094",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 83,
+      "name": "EV Charging – Packages Mall (2nd)",
+      "address": "Packages Mall",
+      "city": "Lahore",
+      "lat": 31.4729758,
+      "lng": 74.3558348,
+      "type": "AC",
+      "powerKW": 0,
+      "price": 120,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "",
+      "phone": "03017253261",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Parking",
+        "10 AM–10 PM"
+      ],
+      "photo": null
+    },
+    {
+      "id": 84,
+      "name": "Khattak Lodge Murree",
+      "address": "48 Bank Road",
+      "city": "Murree",
+      "lat": 33.9100922,
+      "lng": 73.4000495,
+      "type": "AC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "Socket"
+      ],
+      "operator": "Khattak Lodge",
+      "phone": "03202563322",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Hotel Access"
+      ],
+      "photo": null
+    },
+    {
+      "id": 85,
+      "name": "Haval Experience I-9/3",
+      "address": "Plot 295-296, I-9/3",
+      "city": "Islamabad",
+      "lat": 33.6626234,
+      "lng": 73.0573287,
+      "type": "DC",
+      "powerKW": 0,
+      "price": 110,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Haval",
+      "phone": "03114339489",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "9 AM–6 PM"
+      ],
+      "photo": null
+    },
+    {
+      "id": 86,
+      "name": "EV Charging – Metro Safari Store",
+      "address": "Metro Safari Store",
+      "city": "Karachi",
+      "lat": 24.921482,
+      "lng": 67.105964,
+      "type": "DC",
+      "powerKW": 30,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 87,
+      "name": "DoubleTree by Hilton Nathiagali",
+      "address": "Main Road, Nathia Gali",
+      "city": "Nathiagali",
+      "lat": 34.0677417,
+      "lng": 73.4002378,
+      "type": "AC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "Socket"
+      ],
+      "operator": "DoubleTree by Hilton",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Hotel Access"
+      ],
+      "photo": null
+    },
+    {
+      "id": 88,
+      "name": "Haval BAIC Kaira Motors",
+      "address": "GT Rd, opposite Pace Shopping Mall",
+      "city": "Gujrat",
+      "lat": 32.5861396,
+      "lng": 74.0530014,
+      "type": "DC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Kaira Motors",
+      "phone": "03165930061",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 89,
+      "name": "Total Wash Iqbal Filling Station",
+      "address": "MM Alam Rd",
+      "city": "Lahore",
+      "lat": 31.5169649,
+      "lng": 74.3524973,
+      "type": "DC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 90,
+      "name": "aStop by Aramco",
+      "address": "Sher Ali Rd, opposite Expo Center, Johar Town",
+      "city": "Lahore",
+      "lat": 31.4600617,
+      "lng": 74.2610677,
+      "type": "DC",
+      "powerKW": 0,
+      "price": null,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "Aramco",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 91,
+      "name": "PSO Neon Filling Station G-13/1",
+      "address": "St 101, G-13/1",
+      "city": "Islamabad",
+      "lat": 33.6403967963776,
+      "lng": 72.9598543043058,
+      "type": "DC",
+      "powerKW": 250,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 92,
+      "name": "Shell Bhatta Chowk",
+      "address": "FCV9+Q68, Ghazi Rd, Sector S DHA Phase 2, Lahore, Pakistan",
+      "city": "Lahore",
+      "lat": 31.4944814,
+      "lng": 74.4180609,
+      "type": "DC",
+      "powerKW": 180,
+      "price": 90,
+      "connectors": [
+        "CCS2",
+        "CHadeMo",
+        "CCS1"
+      ],
+      "operator": "Shell Pakistan",
+      "phone": "03004860773",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Washroom"
+      ],
+      "photo": null
+    },
+    {
+      "id": 93,
+      "name": "Bilal Petroleum EV Charger",
+      "address": "X6P5+CVC, Karachi - Hyderabad Motorway, Malir Cantonment, Karachi, Pakistan",
+      "city": "Karachi",
+      "lat": 24.9861816,
+      "lng": 67.2091927,
+      "type": "DC",
+      "powerKW": 150,
+      "price": 109,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [
+        "Petrol Station",
+        "Mosque",
+        "Mart"
+      ],
+      "photo": null
+    },
+    {
+      "id": 94,
+      "name": "Al Rakeeb Mansion",
+      "address": "Plot 231, 1 St 7, Block F Punjab Cooprative Housing Society Cantt, Lahore, 54000, Pakistan",
+      "city": "Lahore",
+      "lat": 31.456751,
+      "lng": 74.3652394,
+      "type": "DC",
+      "powerKW": 7,
+      "price": 100,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": "03338009577",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 95,
+      "name": "Rina’s Kichenette",
+      "address": "Rina’s Kichenette, Y block, Phase-3, DHA",
+      "city": "Lahore",
+      "lat": 31.4721421,
+      "lng": 74.3741993,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 100,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 96,
+      "name": "Mall VIII - Mumtaz City",
+      "address": "Plot #8, Mumtaz City",
+      "city": "Islamabad",
+      "lat": 33.5820707286976,
+      "lng": 72.8540959108639,
+      "type": "DC",
+      "powerKW": 120,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 97,
+      "name": "Bhurban AC Charger",
+      "address": "Behind Kundan Bazar Bhurban",
+      "city": "Bhurban",
+      "lat": 33.9682109084829,
+      "lng": 73.4620122186066,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 150,
+      "connectors": [
+        "Type 2"
+      ],
+      "operator": "Residential",
+      "phone": "03413525295",
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 98,
+      "name": "Al Rakeeb Mansion",
+      "address": "231/1 Block F punjab Co-operative housing society Lahore cantt ",
+      "city": "Lahore ",
+      "lat": 31.4632882831283,
+      "lng": 74.3801845680672,
+      "type": "DC",
+      "powerKW": 7,
+      "price": 100,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 99,
+      "name": "Bilal petroleum EV Charger ",
+      "address": "Bilil petroleum near Baqai Medical university ",
+      "city": "Karachi",
+      "lat": 24.9861165855495,
+      "lng": 67.2093075485858,
+      "type": "DC",
+      "powerKW": 150,
+      "price": 109,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 100,
+      "name": "Shangrila hotel & resort ",
+      "address": "",
+      "city": "Murree",
+      "lat": 32.1366411042754,
+      "lng": 74.0150972668995,
+      "type": "AC",
+      "powerKW": 7,
+      "price": 120,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    },
+    {
+      "id": 101,
+      "name": "Rina’s Kichenette",
+      "address": "Y block, Phase-3, DHA",
+      "city": "Lahore ",
+      "lat": 31.4652436706715,
+      "lng": 74.3708137170862,
+      "type": "DC",
+      "powerKW": 7,
+      "price": 0,
+      "connectors": [
+        "CCS2"
+      ],
+      "operator": "",
+      "phone": null,
+      "rating": 0,
+      "reviews": 0,
+      "amenities": [],
+      "photo": null
+    }
+  ]
+}
